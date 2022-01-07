@@ -2,8 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# add
 creditcard.csv
 model/
+OpinosisDataset1.0/
 
 
 # C extensions
