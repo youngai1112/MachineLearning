@@ -8,6 +8,7 @@ creditcard.csv
 model/
 OpinosisDataset1.0/
 서울_치킨업소_정보.xlsx
+ACDelco+Advantage+Battery.xlsx
 
 # C extensions
 *.so
